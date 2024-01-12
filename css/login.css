@@ -1,0 +1,44 @@
+h1 {
+  margin-bottom: 43px;
+}
+
+input {
+  font-family: 'Noto Sans TC';
+  font-size: 24px;
+  width: 370px;
+  height: 64px;
+  padding-left: 12px;
+  color: #B4AEAE;
+  border: 1px solid #BBB6B6;
+  border-radius: 10px;
+}
+
+input[ type="password" ] {
+  margin: 9px 0px 5px 0px;
+}
+
+.content a {
+  color: #217aff;
+  text-decoration: none;
+  margin-left: 5px;
+}
+
+#btn {
+  margin: 25px 0px 5px;
+}
+
+p {
+  font-size: 17px;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+p a {
+  font-size: 17px;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  word-wrap: break-word;
+  text-decoration: none;
+  color: #217aff;
+}

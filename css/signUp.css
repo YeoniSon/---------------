@@ -1,0 +1,60 @@
+h1 {
+  margin-bottom: 37px;
+}
+
+.content{
+  width: 370px;
+}
+
+input {
+  display: inline;
+  width: 360px;
+  height: 40px;
+  margin-bottom: 10px;
+  border: 1px solid #BBB6B6;
+  border-radius: 5px;
+  padding-left: 5px ;
+}
+
+input[name="id"], input[name="add"] {
+  width: 320px;
+  height: 40px;
+}
+
+.addCheck {
+  margin-bottom: 15px;
+}
+
+.content button {
+  float: inline-end;
+  width: 40px;
+  height: 42px;
+  border-radius: 5px;
+  font-size: 10px;
+  background: linear-gradient(90deg, #1161D8 0%, 
+            rgba(59.13, 172.25, 242.08, 0.62) 100%, 
+            rgba(73.16, 197.39, 250.62, 0.49) 100%,
+            rgba(135.09, 178.62, 243.92, 0.70) 100%);
+  color: #ffffff;
+  border: none;
+}
+
+#btn {
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 17px;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+p a {
+  font-size: 17px;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  word-wrap: break-word;
+  text-decoration: none;
+  color: #217aff;
+}
